@@ -9,7 +9,7 @@ public class DAY_1_RAVI_WELCOME_CARD {
 
         int annualBonus = (int) (monthlySalary * 0.12);
 
-        System.out.println("===== WELCOME CARD =====");
+        System.out.println("WELCOME CARD");
         System.out.println("Name : " + memberName);
         System.out.println("Age : " + memberAge);
         System.out.println("Rank : " + memberRank);
