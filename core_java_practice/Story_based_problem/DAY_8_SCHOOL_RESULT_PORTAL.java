@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class DAY_7_SCHOOL_RESULT_PORTAL {
+public class DAY_8_SCHOOL_RESULT_PORTAL {
 
     public static void main(String[] args) {
 
