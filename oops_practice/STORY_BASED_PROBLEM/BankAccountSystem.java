@@ -36,7 +36,7 @@ class BankAccount {
     }
 }
 
-public class ScenarioBased_BankAccountSystem {
+public class BankAccountSystem {
 
     public static void main(String[] args) {
 
