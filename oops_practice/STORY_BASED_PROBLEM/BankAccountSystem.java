@@ -72,7 +72,7 @@ public class BankAccountSystem {
         acc3.getStatement();
 
         System.out.println(
-                "\nTotal Accounts Created = "
+                "Total Accounts Created = "
                         + BankAccount.totalAccountsCreated);
     }
 }
