@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/INTERFACES" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/POLYMORPHISM" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/COLLECTION FRAMEWORK" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/GENERICS" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/JAVA_INTERFACE" />
     </content>
     <orderEntry type="inheritedJdk" />
