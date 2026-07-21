@@ -24,9 +24,8 @@
       <sourceFolder url="file://$MODULE_DIR$/core_java_practice/gcr-codebase/JAVA_INPUT_OUTPUT" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/STORY_BASED_PROBLEM" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr-codebase/Class and Object" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/CLASS_AND_OBJECT" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/ENCAPSULATION_AND_ABSTRACTION" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/INHERITANCE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/INTERFACES" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/JAVA_INTERFACE" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
