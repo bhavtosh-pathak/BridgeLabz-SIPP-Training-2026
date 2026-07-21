@@ -26,6 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr-codebase/Class and Object" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/CLASS_AND_OBJECT" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/ENCAPSULATION_AND_ABSTRACTION" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops_practice/gcr_codebase/LEVEL_1_PROGRAMS/INHERITANCE" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
